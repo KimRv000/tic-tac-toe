@@ -4,6 +4,16 @@
 
 ## Specifications
 
+Tic-tac-toe was devoloped in: 
+
+- React
+
+Using:
+
+- HTML
+- CSS
+- JavaScript
+
 Tic-tac-toe it's a two players game. 
 
 1. Players take turns putting their marks in empty squares. 
